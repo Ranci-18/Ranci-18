@@ -14,7 +14,7 @@ I'm a passionate **Fullstack Software Developer** with a strong specialization i
 
 - **Languages:** TypeScript, JavaScript, Python, C, Rust
 - **Frontend:** React, Next.js
-- **Backend:** Express.js, Node.js
+- **Backend:** Express.js, Node.js, mongodb, firebase firestore, firebase auth
 - **Other Skills:** Cybersecurity, Analytical Problem Solving
 
 ## 🌟 Featured Projects
