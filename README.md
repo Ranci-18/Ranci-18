@@ -13,7 +13,7 @@ I'm a passionate **Fullstack Software Developer** with a strong specialization i
 ## 🛠️ Tech Stack
 
 - **Languages:** TypeScript, JavaScript, Python, C, Rust
-- **Frontend:** React, Next.js
+- **Frontend:** React, Next.js, sass, tailwind css
 - **Backend:** Express.js, Node.js, mongodb, firebase firestore, firebase auth
 - **Other Skills:** Cybersecurity, Analytical Problem Solving
 
