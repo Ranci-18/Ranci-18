@@ -20,8 +20,8 @@ I'm a passionate **Fullstack Software Developer** with a strong specialization i
 ## 🌟 Featured Projects
 
 - **[Premium Auto System](https://premium-auto-black.vercel.app/):** A premium-grade automotive management system—feature-rich and production-ready.
-- **[Vibe Match](https://vibe-match-ten.vercel.app/):** An engaging platform to match vibes and connect people.
-- **[Portfolio Website](https://portfolio-site-rho-seven.vercel.app/):** Explore my full portfolio and professional journey.
+- **[Vibe Match](https://vibe-match-ten.vercel.app/):** An engaging platform for movie lovers.
+- **[Portfolio Website](https://portfolio-site-rho-seven.vercel.app/):** Explore my full portfolio and professional journey (Currently not updated).
 - **[Todo App](https://todo-app-woad-one-64.vercel.app/):** A minimalist, fast, and effective productivity tool.
 
 > 💡 **Explore more projects on my [GitHub repositories](https://github.com/Ranci-18?tab=repositories).**
