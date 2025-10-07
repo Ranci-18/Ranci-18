@@ -21,14 +21,14 @@ I'm a passionate **Fullstack Software Developer** with a strong specialization i
 
 - **[Premium Auto System](https://premium-auto-black.vercel.app/):** A premium-grade automotive management system—feature-rich and production-ready.
 - **[Vibe Match](https://vibe-match-ten.vercel.app/):** An engaging platform for movie lovers.
-- **[Portfolio Website](https://portfolio-site-rho-seven.vercel.app/):** Explore my full portfolio and professional journey (Currently not updated).
+- **[Portfolio Website](https://portfolio-ranci18s-projects.vercel.app/):** Explore my full portfolio and professional journey (Currently not updated).
 - **[Todo App](https://todo-app-woad-one-64.vercel.app/):** A minimalist, fast, and effective productivity tool.
 
 > 💡 **Explore more projects on my [GitHub repositories](https://github.com/Ranci-18?tab=repositories).**
 
 ## 📫 Connect With Me
 
-- **Portfolio:** [portfolio-site-rho-seven.vercel.app](https://portfolio-site-rho-seven.vercel.app/)
+- **Portfolio:** [portfolio-site-rho-seven.vercel.app](https://portfolio-ranci18s-projects.vercel.app/)
 - **LinkedIn:** [Frank Wanyoike](https://www.linkedin.com/in/frank-wanyoike-92630b143)
 
 ---
